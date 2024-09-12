@@ -1,0 +1,9 @@
+# Exclude source files and other unnecessary files
+src/
+tests/
+.gitignore
+node_modules/
+example/
+
+# You can include README.md or any documentation if desired, remove the line above in that case.
+

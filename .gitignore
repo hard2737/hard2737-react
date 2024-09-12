@@ -1,0 +1,17 @@
+node_modules
+dist
+example
+
+# Lock files
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+
+# Environment and configuration files
+.env
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+.DS_Store
