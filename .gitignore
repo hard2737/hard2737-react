@@ -1,6 +1,5 @@
 node_modules
 dist
-example
 
 # Lock files
 pnpm-lock.yaml
